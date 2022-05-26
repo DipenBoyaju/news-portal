@@ -1,0 +1,197 @@
+/*!
+ * Bootstrap Responsive v2.3.1
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+
+@media (min-width: 1200px) {
+	
+}
+
+@media (min-width: 992px) {
+
+	
+	
+}
+
+@media (min-width: 768px) {
+
+	
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	
+	
+}
+
+@media (max-width: 767px) {	
+/** index-page-starts **/
+#date{
+  color: #fff;
+  font-family: "Open Sans", sas-serif;
+  font-size: 14px;
+  margin: -35px 0 0 145px;
+  padding-bottom: 8px;
+}
+#clock{
+  -webkit-align-items: center;
+  display: flex;
+  display: -webkit-flex;
+  height: 30px;
+  justify-content: space-around;
+  -webkit-justify-content: space-around;
+  width: 40%;
+  margin: 6px 0;
+}
+.unit{
+  border-radius: 3px;
+  font-size: 11px;
+  height: 70%;
+  line-height: 20px;
+  width: 22%;
+}
+.header .logo img {
+	width: 100%;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #ffffff;
+    color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+.navbar-default ul li {
+	margin-left: 20px;
+}
+.sliding-news {
+	margin-top: 10px;
+}
+.sliding-news .new1 {
+	padding: 0 5px;
+}
+.sliding-news h2 {
+	font-size: 16px;
+}
+.image-news .row .col1,
+.image-news .row .col2,
+.image-news .row .col3 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.image-news .youtube-video {
+	height: 200px;
+}
+.image-news .col3 img {
+	height: auto !important;
+}
+.image-news .img-new .col3 img {
+	margin-top: -40px;
+}
+.big-news .title1 h2 {
+	margin-right: 138px;
+}
+.big-news .title2 h3 {
+	margin-right: 124px;
+	margin-top: 10px;
+}
+.big-news .sub-news h4 {
+	padding-top: 10px;
+}
+.news2 .title3 h3 {
+	margin-right: 141px;
+}
+.news3 .title4 h3 {
+	margin-right: 191px;
+}
+.news3 .title5 h3 {
+	margin-right: 136px;
+}
+.categories .title12 h3,
+.infos .title13 h3 {
+	margin-right: 139px;
+}
+.news3 .news3a h6 {
+	padding: 0 10px 0 20px;
+}
+.news3 .news3a i::after {
+	content: '';
+	position: absolute;
+	z-index: 2;
+    height: 140px;
+}
+.nav-tabs > li > a {
+    padding: 15px 7px;
+    font-size: 12px;
+}
+.news3 h5 {
+	padding-top: 10px;
+}
+.news3 .tab-content img {
+	height: auto !important;
+}
+.news4 .title6 h3 {
+	margin-right: 130px;
+}
+.news4 .news-img img {
+  width: 100%;
+  margin-top: -500px;
+  position: relative;
+  z-index: 0;
+}
+.news4 .news-contain {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  height: 225px;
+  padding: 10px 20px;
+  margin-top: 100px;
+  margin-left: 0;
+}
+.news4 .news-contain h3 {
+  border-bottom: 2px solid #1daeea;
+  padding-bottom: 10px;
+}
+.news5 .title7 h3 {
+	margin-right: 230px;
+}
+.news5 .title8 h3 {
+	margin-right: 224px;
+}
+.news5 .title9 h3 {
+	margin-right: 198px;
+}
+.news5 p {
+	margin-top: 5px;
+}
+
+.infos .sub-title {
+    margin-top: 80px;
+}
+.infos .sub-title i::after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  height: 1px;
+  width: 80%;
+  background-color: #dadada;
+  margin: 10px 0 0 10px;
+}
+}
+@media (max-width: 480px) {
+/** index-page-starts **/	
+
+/** index-page-ends **/
+}
